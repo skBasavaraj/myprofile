@@ -771,7 +771,7 @@ Widget _buildSocialLinks() {
       _buildSocialButton(
         icon: Icons.link,
         label: 'LinkedIn',
-        onPressed: () => launchUrl(Uri.parse('YOUR_LINKEDIN_URL')),
+        onPressed: () => launchUrl(Uri.parse("https://www.linkedin.com/in/basavaraj-k-4b808924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")),
       ),
       const SizedBox(width: 16),
       _buildSocialButton(
